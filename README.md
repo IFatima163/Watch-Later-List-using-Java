@@ -1,7 +1,21 @@
-This project mimicks the potential additional feature of prioritizing the Youtube (or any other) Watch later list.
+# Wath Later List Priority Feature
 
-User can choose a level of priority (how interested they are in watching the video) when adding that video to the watch later list.
-Later, along with the original sorting options i.e. latest added, oldest added, oldest created, latest created - new options to sort by highest or lowest priority are also available.
+This project mimics the potential additional feature of prioritizing the YouTube (or any other) Watch Later list. 
 
-* Backend code only
-* Created as a semester project experimenting with Java language
+
+---
+
+## Features
+
+
+* **Set Priority**: The User can choose a level of priority (how interested they are in watching the video).
+* **Default Sort List Options**: Options to sort the list with respect to the latest added, the oldest added, the oldest created, the latest created, and manual sort.
+* **Additional Sort List Options**: Options to sort the list with respect to the highest priority or the lowest priority.
+
+---
+
+## 📦 Tech Stack
+
+* **Backend:** Java
+* **Styling:** Java
+* **State & Logic:** OOP
